@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ZoomTable_iPhoneAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 459}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 431}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ZoomTable_iPhoneAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 1344}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 769}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ZoomTable_iPhone */ = {
+		activeExec = 0;
+		executables = (
+			FEF1306B12F6F429007B7310 /* ZoomTable_iPhone */,
+		);
+	};
+	28A0AAE50D9B0CCF005BE974 /* ZoomTable_iPhone_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 459}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 338}";
+		};
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 459}}";
+			sepNavSelRange = "{235, 10}";
+			sepNavVisRange = "{0, 252}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{2844, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{2895, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{2945, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 3664}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1848}}";
+			sepNavSelRange = "{1254, 0}";
+			sepNavVisRange = "{884, 416}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = FEF1306B12F6F429007B7310 /* ZoomTable_iPhone */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ZoomTable_iPhone */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ZoomTable_iPhone */,
+		);
+		codeSenseManager = FEF1307712F6F433007B7310 /* Code sense */;
+		executables = (
+			FEF1306B12F6F429007B7310 /* ZoomTable_iPhone */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					643.58349609375,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 318744524;
+			PBXWorkspaceStateSaveDate = 318744524;
+		};
+		perUserProjectItems = {
+			FE2BDF9612FFA82400B0089F /* PBXTextBookmark */ = FE2BDF9612FFA82400B0089F /* PBXTextBookmark */;
+			FE2BDFBD12FFA94D00B0089F /* PBXTextBookmark */ = FE2BDFBD12FFA94D00B0089F /* PBXTextBookmark */;
+			FE2BDFC112FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC112FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BDFC212FFA98F00B0089F /* PlistBookmark */ = FE2BDFC212FFA98F00B0089F /* PlistBookmark */;
+			FE2BDFC312FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC312FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BDFC412FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC412FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BDFC512FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC512FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BDFC612FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC612FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BDFC712FFA98F00B0089F /* PBXTextBookmark */ = FE2BDFC712FFA98F00B0089F /* PBXTextBookmark */;
+			FE2BE02412FFBA6C00B0089F /* PBXTextBookmark */ = FE2BE02412FFBA6C00B0089F /* PBXTextBookmark */;
+			FE2BE02512FFBA6C00B0089F /* PBXTextBookmark */ = FE2BE02512FFBA6C00B0089F /* PBXTextBookmark */;
+		};
+		sourceControlManager = FEF1307612F6F433007B7310 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 459}}";
+			sepNavSelRange = "{74, 0}";
+			sepNavVisRange = "{0, 307}";
+		};
+	};
+	FE2BDF9012FFA7FC00B0089F /* PinchZoomTableView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 532}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1058}";
+		};
+	};
+	FE2BDF9112FFA7FC00B0089F /* PinchZoomTableView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 2030}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{974, 836}";
+		};
+	};
+	FE2BDF9612FFA82400B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE2BDF9112FFA7FC00B0089F /* PinchZoomTableView.m */;
+		name = "PinchZoomTableView.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 974;
+	};
+	FE2BDFBD12FFA94D00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE2BDFBE12FFA94D00B0089F /* UITableViewCell.h */;
+		name = "UITableViewCell.h: 33";
+		rLen = 33;
+		rLoc = 1338;
+		rType = 0;
+		vrLen = 524;
+		vrLoc = 939;
+	};
+	FE2BDFBE12FFA94D00B0089F /* UITableViewCell.h */ = {
+		isa = PBXFileReference;
+		name = UITableViewCell.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h;
+		sourceTree = "<absolute>";
+	};
+	FE2BDFC112FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 74;
+		rType = 0;
+		vrLen = 307;
+		vrLoc = 0;
+	};
+	FE2BDFC212FFA98F00B0089F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* ZoomTable_iPhone-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/sachith/Desktop/Zoom/ZoomTable_iPhone/ZoomTable_iPhone-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	FE2BDFC312FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28A0AAE50D9B0CCF005BE974 /* ZoomTable_iPhone_Prefix.pch */;
+		name = "ZoomTable_iPhone_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	FE2BDFC412FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ZoomTable_iPhoneAppDelegate.m */;
+		name = "ZoomTable_iPhoneAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	FE2BDFC512FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ZoomTable_iPhoneAppDelegate.h */;
+		name = "ZoomTable_iPhoneAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 97;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 0;
+	};
+	FE2BDFC612FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 13";
+		rLen = 10;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	FE2BDFC712FFA98F00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 109";
+		rLen = 0;
+		rLoc = 3170;
+		rType = 0;
+		vrLen = 942;
+		vrLoc = 2689;
+	};
+	FE2BE02412FFBA6C00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE2BDF9012FFA7FC00B0089F /* PinchZoomTableView.h */;
+		name = "PinchZoomTableView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 0;
+	};
+	FE2BE02512FFBA6C00B0089F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = FE2BDF9012FFA7FC00B0089F /* PinchZoomTableView.h */;
+		name = "PinchZoomTableView.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1058;
+		vrLoc = 0;
+	};
+	FEF1306B12F6F429007B7310 /* ZoomTable_iPhone */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ZoomTable_iPhone;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	FEF1307612F6F433007B7310 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	FEF1307712F6F433007B7310 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
